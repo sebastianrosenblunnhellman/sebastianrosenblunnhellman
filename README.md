@@ -1,3 +1,5 @@
-### Hola soy Sebastian Rosenblunn ! 👋
+# Hola, soy Sebastian Rosenblunn! 👋
+
+![Banner](assets/github.png)
 
 
