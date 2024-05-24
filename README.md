@@ -1,6 +1,6 @@
 # Hola, soy Sebastian Rosenblunn! 👋
 
-![Banner](github.png)
+![Banner](banner-pic.png)
 
 ### Un poco sobre mi...
 
